@@ -19,6 +19,7 @@
 }
 
 body {
+    
     background-color: var(--bg-color) ;
     font-family: 'Barlow Semi Condensed', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--letter-color);
@@ -281,7 +282,7 @@ section.about{
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url("../assets/logo.png");
+    background-image: url("../assets/LOGO.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
